@@ -1,7 +1,7 @@
 public class Maayan {
     public static void main(String[] args) {
         for (int i=1; i<=5; i++) {
-            System.out.println("Maayan");
+            System.out.println("my name is maayan");
         }
     }
 }
